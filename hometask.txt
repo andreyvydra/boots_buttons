@@ -1,0 +1,6 @@
+В репозитории ветке demo в файле README не укаазно, что на желетке у человечка есть пуговицы
+
+3 комита:
+1. heat added
+2. Merge remote-tracking branch 'origin/hat'
+3. Merge remote-tracking branch 'my_origin/boots_buttons'
